@@ -1,0 +1,13 @@
+.site-table {
+  margin: 200px auto;
+  border: 2px solid green;
+}
+
+.site-table > thead > tr > th {
+  background-color: gold;
+}
+
+.table-number {
+  background-color: gold;
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */
